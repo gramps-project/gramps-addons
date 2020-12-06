@@ -111,6 +111,7 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.8',"g":'5.1',"d":'Een tool om avatarafbeeldingen toe te voegen aan uw stamboom',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Gebeurtenisbeschrijvingsbewerker',"v":'1.0.6',"g":'5.1',"d":'Een hulpmiddel om een string te vinden en te vervangen in de gebeurtenisbeschrijving van meerdere gebeurtenissen.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Familierelaties hulpmiddel',"v":'1.1.3',"g":'5.1',"d":'Het in bulk bewerken van het familierelatie type voor een groep families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'Import Geneanet data for Gramps',"n":'Import Geneanet data for Gramps',"v":'1.0.1',"g":'5.1',"d":'Extension to import data from Geneanet into Gramps.',"z":'GeneanetForGramps.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatievoltooiing',"v":'0.0.39',"g":'5.1',"d":'Biedt een doorzoekbare lijst van geselecteerde plaatsen, met de mogelijkheid om de kenmerkvelden in te vullen / te ontleden / in te stellen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Labels toevoegen/verwijderen',"v":'1.1.4',"g":'5.1',"d":'Voeg een label toe of verwijder deze uit groepen personen, gebeurtenissen, enz.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk instellen',"v":'0.0.32',"g":'5.1',"d":'Stel een kenmerk in op een bepaalde waarde.',"z":'SetAttributeTool.addon.tgz'}

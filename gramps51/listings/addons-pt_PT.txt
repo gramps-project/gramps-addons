@@ -111,6 +111,7 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Ferramenta de geração de avatar',"v":'1.0.8',"g":'5.1',"d":'Uma ferramenta para adicionar avatares à sua árvore genealógica',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.6',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.3',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'Import Geneanet data for Gramps',"n":'Import Geneanet data for Gramps',"v":'1.0.1',"g":'5.1',"d":'Extension to import data from Geneanet into Gramps.',"z":'GeneanetForGramps.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Conclusão de locais',"v":'0.0.39',"g":'5.1',"d":'Fornece uma lista navegável de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Adicionar / remover ferramenta de etiqueta',"v":'1.1.4',"g":'5.1',"d":'Adicione ou remova uma etiqueta de grupos de indivíduos, eventos, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.32',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}

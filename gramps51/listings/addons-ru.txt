@@ -111,6 +111,7 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Создание аватар',"v":'1.0.8',"g":'5.1',"d":'Иструмент для создания изображений (аватар) для семейного древа',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Редактор описания событий',"v":'1.0.6',"g":'5.1',"d":'Иструмент для поиска и замены строк в описании нескольких событий.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.3',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'Import Geneanet data for Gramps',"n":'Import Geneanet data for Gramps',"v":'1.0.1',"g":'5.1',"d":'Extension to import data from Geneanet into Gramps.',"z":'GeneanetForGramps.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.39',"g":'5.1',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Инструмент добавления / удаления меток',"v":'1.1.4',"g":'5.1',"d":'Добавить или удалить теги для групп людей, событий и т. Д.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.32',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}

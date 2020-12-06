@@ -111,6 +111,7 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.8',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Ereignisbeschreibungseditor',"v":'1.0.6',"g":'5.1',"d":'Ein Werkzeug zum Suchen und Ersetzen einer Zeichenfolge in der Ereignisbeschreibung mehrerer Ereignisse.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Werkzeug für Familienbeziehungen',"v":'1.1.3',"g":'5.1',"d":'Massen-Bearbeitung des Familienbeziehungstyp für eine Gruppe von Familien.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'Import Geneanet data for Gramps',"n":'Import Geneanet data for Gramps',"v":'1.0.1',"g":'5.1',"d":'Extension to import data from Geneanet into Gramps.',"z":'GeneanetForGramps.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.39',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.4',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.32',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
